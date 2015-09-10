@@ -1,6 +1,6 @@
 #!/bin/sh
 # 本脚本用于从文件中读取sql，并限速执行
-
+# test
 # MySQL客户端的路径
 MYSQLPATH='/home/rd/mysql5620-master/bin'
 SER_IP='10.172.172.7'
